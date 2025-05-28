@@ -1,0 +1,5 @@
+output/* filter=lfs diff=lfs merge=lfs -text
+02-experiment-tracking/homework/output/test.pkl filter=lfs diff=lfs merge=lfs -text
+02-experiment-tracking/homework/output/train.pkl filter=lfs diff=lfs merge=lfs -text
+02-experiment-tracking/homework/output/val.pkl filter=lfs diff=lfs merge=lfs -text
+02-experiment-tracking/homework/output/dv.pkl filter=lfs diff=lfs merge=lfs -text
